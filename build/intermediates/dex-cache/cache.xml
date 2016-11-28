@@ -3,12 +3,12 @@
 
     <item
         is-multidex="true"
-        jar="/Users/ranendelman/dev/Minesweeper/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jar="/Users/ranendelman/dev/Minesweeper-d5257e7911391f9334c7a1420b29ddded5060a4b/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
-        <dex dex="/Users/ranendelman/dev/Minesweeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.0_cc12f2d21a43d45a96e22b8e4d99d60ee8e88472/classes.dex" />
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/ranendelman/dev/Minesweeper-d5257e7911391f9334c7a1420b29ddded5060a4b/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.0_6250cb9812cc86b34f6783afc741ab7518fbc81f/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -21,6 +21,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/ranendelman/dev/Minesweeper-d5257e7911391f9334c7a1420b29ddded5060a4b/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="02a72055ca6de5dbd4b6b30c8c435b5c2aa9ec76">
+        <dex dex="/Users/ranendelman/dev/Minesweeper-d5257e7911391f9334c7a1420b29ddded5060a4b/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0ce6c59e6f1df21ddfbc90ae58a846960e54da5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/ranendelman/AndroidStudioProjects/MineSweeper/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
@@ -30,12 +39,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/ranendelman/dev/Minesweeper/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/ranendelman/dev/Minesweeper-d5257e7911391f9334c7a1420b29ddded5060a4b/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="85b1bef74b52f35f3096af73c24747468cf84e26">
-        <dex dex="/Users/ranendelman/dev/Minesweeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1e19dbecab998b02fbd0b42e1c1f4a12dcd84158/classes.dex" />
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/ranendelman/dev/Minesweeper-d5257e7911391f9334c7a1420b29ddded5060a4b/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.0_4145155e8f4d43a56e74dc0f2b297e1ca9d13f2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ranendelman/dev/Minesweeper-d5257e7911391f9334c7a1420b29ddded5060a4b/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/ranendelman/dev/Minesweeper-d5257e7911391f9334c7a1420b29ddded5060a4b/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.0_80accb645e61640629bea2187241426d83a1b9e8/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -57,39 +75,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/ranendelman/dev/Minesweeper/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
-        <dex dex="/Users/ranendelman/dev/Minesweeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.0_7e6ccfe11a1a0c65824ae9b32c409b6ae98b0ccf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ranendelman/dev/Minesweeper/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jar="/Users/ranendelman/dev/Minesweeper-d5257e7911391f9334c7a1420b29ddded5060a4b/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
         sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
-        <dex dex="/Users/ranendelman/dev/Minesweeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.0_8808ffe0c33c40335227edf4ad1a3327fffa9317/classes.dex" />
+        <dex dex="/Users/ranendelman/dev/Minesweeper-d5257e7911391f9334c7a1420b29ddded5060a4b/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.0_f9474174b95bcf2bab375445134d6fbe5b4c538f/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/ranendelman/dev/Minesweeper/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/ranendelman/dev/Minesweeper-d5257e7911391f9334c7a1420b29ddded5060a4b/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="c7f048f47cd5b88cf411d7d334bf9be4a35147e4">
-        <dex dex="/Users/ranendelman/dev/Minesweeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_80bda6113999ec948d50852c6059cae4a3ed265f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ranendelman/dev/Minesweeper/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="292a9fa091757208efa65e77eef63088247e51f3">
-        <dex dex="/Users/ranendelman/dev/Minesweeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.0_43f262f97a552c435edc3f1f2565199cbe3cf791/classes.dex" />
+        sha1="a6009b6507b2dcd19c4d1b7b41834b429d8c7b9b">
+        <dex dex="/Users/ranendelman/dev/Minesweeper-d5257e7911391f9334c7a1420b29ddded5060a4b/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_99d2c3bb083f4eaf4be0c2571fee2bdb1e6a45b5/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -102,12 +102,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/ranendelman/dev/Minesweeper/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jar="/Users/ranendelman/dev/Minesweeper-d5257e7911391f9334c7a1420b29ddded5060a4b/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
         sha1="6e239441500605809818997dd63b62a947195f8c">
-        <dex dex="/Users/ranendelman/dev/Minesweeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.0_adf6b80dd79f0bda78cbbe928b63d1587e001b56/classes.dex" />
+        <dex dex="/Users/ranendelman/dev/Minesweeper-d5257e7911391f9334c7a1420b29ddded5060a4b/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.0_d8d59923c2b7c9789ec39164b9b5596cfa1cc22f/classes.dex" />
     </item>
     <item
         is-multidex="true"
