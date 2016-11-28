@@ -7,15 +7,26 @@ import android.widget.ImageButton;
 import android.widget.RadioButton;
 
 public class MainActivity extends AppCompatActivity {
+    int matrixSize = 0;
+
+    public int getMatrixSize() {
+        return matrixSize;
+    }
+
+    public void setMatrixSize(int matrixSize) {
+        this.matrixSize = matrixSize;
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        onRadioButtonClicked(findViewById(R.id.radioGroup));
+
         setupStartButton();
 
-        final String ran = "ran";
+
     }
 
     public void onRadioButtonClicked(View view) {
@@ -26,15 +37,16 @@ public class MainActivity extends AppCompatActivity {
         switch(view.getId()) {
             case R.id.begginer:
                 if (checked)
-                    // Beginner level chosen
+                    setMatrixSize(10);
                     break;
             case R.id.medium:
                 if (checked)
-                    // Medium level chosen
+                    setMatrixSize(15);
+
                     break;
             case R.id.hard:
                 if (checked)
-                    // Hard level chosen
+                    setMatrixSize(20);
                     break;
         }
     }
