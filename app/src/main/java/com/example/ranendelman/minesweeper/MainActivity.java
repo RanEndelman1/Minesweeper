@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
         setupStartButton();
 
-        final static String ran = "ran";
+        final String ran = "ran";
     }
 
     public void onRadioButtonClicked(View view) {
