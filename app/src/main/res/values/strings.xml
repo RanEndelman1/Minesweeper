@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MineSweeper</string>
+    <string name="begginer">Begginer</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="levels">Choose Skill Level</string>
+    <string name="start">START</string>
+</resources>
