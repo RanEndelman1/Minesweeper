@@ -14,6 +14,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         setupStartButton();
+
+        final static String ran = "ran";
     }
 
     public void onRadioButtonClicked(View view) {
